@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">My feed</string>
+    <string name="title_activity_main">My feed</string>
+    <string name="package_name">com.myfeed.app</string>
+    <string name="custom_url_scheme">com.myfeed.app</string>
+</resources>

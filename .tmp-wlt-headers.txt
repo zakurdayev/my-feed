@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location: https://www.welivetogether.com/models
+accept-ch: Sec-CH-UA,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-UA-Platform,Sec-CH-UA-Platform-Version
+alt-svc: h3=":443"; ma=3600
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+
+HTTP/1.1 200 OK
+server: openresty
+date: Wed, 28 Oct 2026 04:18:43 GMT
+content-type: text/html; charset=utf-8
+content-length: 721524
+vary: Accept-Encoding
+x-trace: 2BD4E0E0BACA950F02541A69BD4CA808A96F30F1705D8DF9F7610C451B00
+x-powered-by: Juan
+x-download-options: noopen
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+content-security-policy: frame-ancestors https://*.welivetogether.com
+set-cookie: instance_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJtaW5kZ2VlayIsImF1ZCI6Im1pbmRnZWVrIiwic3ViIjoiaW5zdGFuY2UtYXBpIiwiZXhwIjoxNzkzMzE4NDAwLCJpZCI6MzQ2MzAxLCJicmFuZCI6InJlYWxpdHlraW5ncyIsImhvc3RuYW1lIjoid3d3LndlbGl2ZXRvZ2V0aGVyLmNvbSIsInN0b3JlSWQiOm51bGx9.jlhXlphuZ9yNSoTeOJxXhQQQ_uKVYAr_3kGU-r4r8Bc; Max-Age=86400; Path=/; Expires=Thu, 29 Oct 2026 04:18:42 GMT
+set-cookie: app_session_id=be7ddf71-2a94-5283-8739-475cc2f70a37; Max-Age=86400; Path=/; Expires=Thu, 29 Oct 2026 04:18:42 GMT
+x_ats_page_id: 9022681
+x_ats_page_type: EXPLORE_ACTORS
+x_ats_instance_id: 346301
+x_ats_instance_type: tour
+etag: W/"b0274-/xX12d9kFmhRwteq3UaByWts57Q"
+set-cookie: __s=6AE177A2-42FE72EA01BB34091C-1849FE; Domain=.welivetogether.com; Path=/; Secure; SameSite=None
+accept-ch: Sec-CH-UA,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-UA-Platform,Sec-CH-UA-Platform-Version
+alt-svc: h3=":443"; ma=3600
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+
